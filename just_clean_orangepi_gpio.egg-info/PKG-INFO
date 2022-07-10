@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: just-clean-orangepi-gpio
+Version: 0.1
+Summary: Python implementation for WiringOP CLI tool
+Home-page: https://github.com/Justcleancountry/orange-pi-gpio
+Author: Nikita Kaner
+Author-email: nikitaKaner@corp.laserpoint.ru
